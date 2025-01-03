@@ -1,4 +1,4 @@
-global.bankname = "MONIEPOINT"
+global.bankname = "KAO"
 
 global.banknumber = "8293316342"
 
