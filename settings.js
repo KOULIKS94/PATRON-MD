@@ -1,7 +1,8 @@
 global.bankname = "MONIEPOINT"
 
-global.banknumber = "8133729715"
+global.banknumber = "8293316342"
 
+global pairingcode number= '918293316342'
 global.bankowner = "FADARE"
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
